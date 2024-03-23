@@ -1,1 +1,1 @@
-from dataParseCls.parse import dataParse
+from dataParserCls.parse import dataParse
