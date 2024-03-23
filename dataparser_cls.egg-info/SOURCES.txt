@@ -1,0 +1,6 @@
+README.md
+setup.py
+dataparser_cls.egg-info/PKG-INFO
+dataparser_cls.egg-info/SOURCES.txt
+dataparser_cls.egg-info/dependency_links.txt
+dataparser_cls.egg-info/top_level.txt
