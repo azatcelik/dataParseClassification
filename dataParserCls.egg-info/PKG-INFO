@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: dataparser-cls
+Name: dataParserCls
 Version: 0.1
 Summary: Data parser for classification
-Home-page: https://https://github.com/azatcelik/dataParseClassification/
+Home-page: https://github.com/azatcelik/dataParseClassification/
 Author: azatcelik (Azat Çelik)
 Author-email: azatcellk@hotmail.com
 Classifier: Programming Language :: Python :: 3
